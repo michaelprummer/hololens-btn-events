@@ -1,0 +1,11 @@
+/Library
+/Temp
+/error.log
+/.vs
+/*.csproj
+/*.sln
+/*.userprefs
+/Logs
+/obj
+/Builds
+Assets/Logs/
